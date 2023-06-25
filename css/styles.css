@@ -56,3 +56,8 @@ body {
     margin-right: 1em;
     color: var(--grayish-blue);
 }
+
+.attribution {
+    text-align: center;
+    background-color: var(--light-gray); 
+}
